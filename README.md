@@ -2,6 +2,8 @@
 
 This is a JavaScript-based bell curve generator modeled after the original [Python version](https://github.com/sudhakara-ambati/bell-curve-generator). It uses [Plotly](https://plotly.com/javascript/) for dynamic plotting and is part of the web experiments on [astraeus.tokyo](https://astraeus.tokyo). The tool visualizes the distribution of grades based on student marks and helps calculate grade boundaries.
 
+Credit to @sudhakara-ambati for allowing me to work with him on the original python version which was the backbone of logic when creating this one.
+
 
 ## Features
 
